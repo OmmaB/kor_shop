@@ -74,5 +74,7 @@ Many more....
 =======
 kor_shop
 >>>>>>> origin/main
+>>>>>>> capture d'écran
+>>>>>>> 
 
 
