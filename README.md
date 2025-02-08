@@ -74,7 +74,14 @@ Many more....
 =======
 kor_shop
 >>>>>>> origin/main
->>>>>>> capture d'écran
->>>>>>> 
+
+<<<<<<< captures d'écran :
+![Alt Text](captures/4.png)
+![Alt Text](captures/2.png)
+![Alt Text](captures/1.png)
+![Alt Text](captures/3.png)
+![Alt Text](captures/5.png)
+![Alt Text](captures/logo3.png)
+>>>>>>>
 
 
